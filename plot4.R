@@ -1,4 +1,4 @@
-## Plot 3
+## Plot 4
 
 ## install sqldf load library if necessary
 if(!require(sqldf, quietly = TRUE)) install.packages("sqldf")
